@@ -1,7 +1,7 @@
 h1 {
-	color: red;
+	color: orange;
 }
 
 body {
-	background: red url(banner01_v01.jpg) repeat-x fixed;
+	background: black url(banner01_v01.jpg) repeat fixed;
 }
